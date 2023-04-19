@@ -13,6 +13,7 @@
   - :white_check_mark: Merge with other branches
   - :white_check_mark: Create Pull Requests
   - :white_check_mark: Code Reviews etc.
+  - :white_check_mark: Access with SSH Keys
   
 ## DONOTs
   - :negative_squared_cross_mark: UPLOAD ANY EXISTING CODE AND DOCUMENTS FROM WORK
