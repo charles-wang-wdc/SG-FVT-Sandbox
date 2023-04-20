@@ -23,7 +23,7 @@
 
 Few Resources ... 
   - :book:[GitHub Training manual](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-  - :film_strip:[GitHub Tutorial Youtube] (https://www.youtube.com/watch?v=tRZGeaHPoaw&pp=ygUQZ2l0aHViIHRyYWluaW5nIA%3D%3D)
-  - :book:[Pro Git Bok] (https://git-scm.com/book/en/v2)
-  - :book:[Git Cheat Sheet] (https://git-scm.com/docs)
+  - :film_strip:[GitHub Tutorial Youtube](https://www.youtube.com/watch?v=tRZGeaHPoaw&pp=ygUQZ2l0aHViIHRyYWluaW5nIA%3D%3D)
+  - :book:[Pro Git Bok](https://git-scm.com/book/en/v2)
+  - :book:[Git Cheat Sheet](https://git-scm.com/docs)
   - Also utilize Git Hub training material shared in Signal groups
